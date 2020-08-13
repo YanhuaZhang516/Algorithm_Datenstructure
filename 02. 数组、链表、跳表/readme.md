@@ -2,8 +2,8 @@
 - [x] [数组插入、删除的基本操作](https://github.com/YanhuaZhang516/Algorithm_Datenstructure/blob/master/02.%20%E6%95%B0%E7%BB%84%E3%80%81%E9%93%BE%E8%A1%A8%E3%80%81%E8%B7%B3%E8%A1%A8/01.%E6%95%B0%E7%BB%84%E3%80%81%E9%93%BE%E8%A1%A8.ipynb)
 - [x] [盛最多水容器container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/)
 - [x] [移动零 move-zeros](https://leetcode-cn.com/problems/move-zeroes/)
-- [ ] [爬楼梯 climbing-stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [三数之和 3sum](https://leetcode-cn.com/problems/3sum/)
+- [x] [爬楼梯 climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)
+- [x] [三数之和 3sum](https://leetcode-cn.com/problems/3sum/)
 
 
 # 链表
